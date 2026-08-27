@@ -34,5 +34,7 @@
     "*.{js,jsx,ts,tsx,md,json}": [
       "prettier --write"
     ]
-  }
+  },
+  "license": "UNLICENSED",
+  "author": "Frank Riemer <frank@frankx.ai>"
 }
