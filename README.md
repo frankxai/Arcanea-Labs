@@ -24,7 +24,7 @@ Many features referenced in early plans are still under development.
 ### Prerequisites
 
 - Node.js 18+
-- npm 9+ or pnpm 8+
+- pnpm 8+
 - Git
 - [OpenRouter API Key](https://openrouter.ai/)
 
@@ -38,11 +38,7 @@ Many features referenced in early plans are still under development.
 
 2. Install dependencies:
    ```bash
-   # Using pnpm (recommended)
    pnpm install
-   
-   # Or using npm
-   npm install
    ```
 
 3. Set up environment variables:
