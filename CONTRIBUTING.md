@@ -43,9 +43,6 @@ By participating in this project, you're expected to uphold our [Code of Conduct
    ```bash
    # For web development
    pnpm --filter web-portal dev
-   
-   # For mobile development
-   pnpm --filter mobile-app start
    ```
 
 3. **Run tests**:
